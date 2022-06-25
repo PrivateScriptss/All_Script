@@ -1,0 +1,6 @@
+if game.PlaceId == 4596171433 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PrivateScriptss/Released/main/MH"))()
+if game.PlaceId == 4756793821 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PrivateScriptss/Released/main/MQ"))()
+end
+end

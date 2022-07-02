@@ -2,5 +2,8 @@ if game.PlaceId == 4596171433 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PrivateScriptss/Released/main/MH"))()
 if game.PlaceId == 4756793821 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PrivateScriptss/Released/main/MQ"))()
+if game.PlaceId == 8619263259 then
+https://raw.githubusercontent.com/PrivateScriptss/Released/main/Critical%20Legends
+end
 end
 end
